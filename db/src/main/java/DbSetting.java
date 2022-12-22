@@ -1,4 +1,5 @@
 public class DbSetting {
+
     private String name;
     private String password;
 
@@ -6,4 +7,5 @@ public class DbSetting {
         this.name = name;
         this.password = password;
     }
+
 }

@@ -1,6 +1,7 @@
 import java.util.UUID;
 
 public class MyEntity {
+
     private UUID id;
     private String name;
 
